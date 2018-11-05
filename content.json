@@ -1,0 +1,67 @@
+{
+  "name": "SAT2数学教科书",
+  "desc": "",
+  "keywords": ["数学", "SAT2"],
+  "cover": "cover.jpg",
+  "tags": ["SAT2", "Math"],
+  "lang": "",
+  "chapters": [
+    {
+      "name": "Checkpoint 1-函数与方程",
+      "content": "Chapter1/content.md",
+      "sections": [
+        {"name":"考试简介"},
+        {"name":"函数基本定义"},
+        {"name":"一次函数"},
+        {"name":"二次函数"},
+        {"name":"高次函数"},
+        {"name":"三角函数"},
+        {"name":"指数，对数函数"},
+        {"name":"极限"},
+        {"name":"参数方程，分段函数，复合函数，反函数，函数图像变换"},
+        {"name":"不等式"}
+      ]
+    },
+    {
+      "name": "Checkpoint 2-坐标几何（解析几何）",
+      "content": "Chapter2/content.md",
+      "sections": [
+        {"name":"圆锥曲线"},
+        {"name":"极坐标和空间直角坐标系"}
+      ]
+    },
+    {
+      "name": "Checkpoint 3-基本逻辑",
+      "content": "Chapter3/content.md",
+      "sections": [
+        {"name":"基本逻辑"}
+      ]
+    },
+    {
+      "name": "Checkpoint 4-数与运算",
+      "content": "Chapter4/content.md",
+      "sections": [
+        {"name":"排列组合"},
+        {"name":"复数"},
+        {"name":"矩阵和行列式"},
+        {"name":"数列"},
+        {"name":"向量"}
+      ]
+    },
+    {
+      "name": "Checkpoint 5-立体几何",
+      "content": "Chapter5/content.md",
+      "sections": [
+        {"name":"立体几何"}
+      ]
+    },
+    {
+      "name": "Checkpoint 6-数据分析",
+      "content": "Chapter6/content.md",
+      "sections": [
+        {"name":"数据分析"},
+        {"name":"概率"}
+      ]
+    }
+  ]
+}
