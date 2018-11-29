@@ -7,11 +7,11 @@
 密码：LKY1961
 ![](1.png)
 
-D，65
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>D，65</cr>
 
 ![](2.png)
 
-E，47
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>E，47</cr>
 
 极坐标和空间直角坐标系
 <cr type="player" parameters="XMzg0ODgyNjkyOA=="><notice>播放器功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice></cr>
@@ -19,8 +19,8 @@ E，47
 密码：LKY1961
 ![](3.png)
 
-B，45
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，45</cr>
 
 ![](4.png)
 
-B，67
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，67</cr>

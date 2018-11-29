@@ -12,7 +12,7 @@
 什么是函数？这节课我们讲解一些函数的基本定义，比如定义域，值域等。这些都是用来分析函数的工具。
 ![](1.png)
 
-B，正答率66%
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，正答率66%</cr>
 
 一次函数
 ----
@@ -20,11 +20,11 @@ B，正答率66%
 一次函数是最简单的函数之一，这节课我们讲解它的性质。
 ![](2.png)
 
-D，90
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>D，90</cr>
 
 ![](3.png)
 
-C，70
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>C，70</cr>
 
 二次函数
 ----
@@ -33,7 +33,7 @@ C，70
 
 ![](4.png)
 
-D，79
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>D，79</cr>
 
 高次函数
 ----
@@ -42,11 +42,11 @@ D，79
 
 ![](5.png)
 
-D，75
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>D，75</cr>
 
 ![](6.png)
 
-B，57
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，57</cr>
 
 三角函数
 ----
@@ -55,11 +55,11 @@ B，57
 
 ![](7.png)
 
-E，84
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>E，84</cr>
 
 ![](8.png)
 
-A，88
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>A，88</cr>
 
 指数，对数函数
 ----
@@ -68,11 +68,11 @@ A，88
 
 ![](9.png)
 
-C，57
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>C，57</cr>
 
 ![](10.png)
 
-A，46
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>A，46</cr>
 
 极限
 ----
@@ -81,7 +81,7 @@ A，46
 
 ![](11.png)
 
-B，87
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，87</cr>
 
 参数方程，分段函数，复合函数，反函数，函数图像变换
 ----
@@ -90,23 +90,23 @@ B，87
 
 ![](12.png)
 
-C，90
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>C，90</cr>
 
 ![](13.png)
 
-B，89
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>B，89</cr>
 
 ![](14.png)
 
-C，52
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>C，52</cr>
 
 ![](15.png)
 
-E，44
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>E，44</cr>
 
 ![](16.png)
 
-E，48
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>E，48</cr>
 
 不等式
 ----
@@ -115,5 +115,5 @@ E，48
 
 ![](17.png)
 
-D，76
+<cr type="hidden" parameters="点击查看答案"><notice>隐藏内容功能在此无法正常显示，请移步至[程谱 coderecipe.cn](https://coderecipe.cn/learn/1)查看。</notice>D，76</cr>
 
